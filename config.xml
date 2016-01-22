@@ -1,0 +1,9 @@
+<?xml version="1.0" encoded="utf-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.kirktrivia" version="1.0">
+<name>Trivia</name>
+<description>Trivia game by Robert Kirk</description>
+<author href="http://devblog4kirk.wordpress.com/" email="robertkirk13@gmail.com">Robert Kirk</author>
+<preference name="orientation" value="default"/>
+<preference name="target-device" value="universal"/>
+</widget>
