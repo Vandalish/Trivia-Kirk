@@ -1,9 +1,20 @@
-<?xml version="1.0" encoded="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
 
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.kirktrivia" version="1.0">
-<name>Trivia</name>
-<description>Trivia game by Robert Kirk</description>
-<author href="http://devblog4kirk.wordpress.com/" email="robertkirk13@gmail.com">Robert Kirk</author>
-<preference name="orientation" value="default"/>
-<preference name="target-device" value="universal"/>
+    <!-- versionCode is optional and Android only -->
+
+    <name>Trivia</name>
+
+    <description>
+       A trivia game
+    </description>
+
+    <author href="https://twitter.com/VandalishVA" email="robertkirk13@gmail.com">
+        Robert Kirk
+    </author>
+
 </widget>
